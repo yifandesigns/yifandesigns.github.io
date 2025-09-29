@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "YiFan Dai"
 title_separator          : "-"
 name                     : &name "YiFan Dai"
@@ -24,11 +24,11 @@ repository               : "yifandesigns/yifandesigns.github.io"
 author:
   # Biographic information
   avatar           : "profile-pic.png"
-  name             : "Your Sidebar Name"
+  name             : "YiFan Dai"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Toronto"
+  employer         : "University of Toronto"
   uri              : # URL
   email            : "none@example.org" 
 
